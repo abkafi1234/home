@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "" # side bar name
-  pronouns         : "HE/His" # example: "she/her"  
+  pronouns         : "He/Him" # example: "she/her"  
   bio              : "passionate about Machine Learning and optimization"
   location         : "Bangladesh"
   employer         : "Daffodil International University"
