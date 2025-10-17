@@ -10,10 +10,10 @@ redirect_from:
 Welcome! 👋  
 I’m **Md Abdullah Al Kafi**, a Lecturer at the **Department of Computer Science and Engineering**, [Daffodil International University](https://daffodilvarsity.edu.bd/), Bangladesh.  
 
-My research spans **Artificial Intelligence (AI)**, **Natural Language Processing (NLP)**, and **Optimization in Machine Learning**, with a special focus on **low-resource and morphologically rich languages**, particularly **Bengali**.  
+My research focuses on **Multimodal and Resource-Efficient Artificial Intelligence**, spanning **Natural Language Processing (NLP)**, **Speech and Voice Processing**, and **Computer Vision**.  
+I’m particularly interested in developing **optimization-driven AI models** for **low-resource and morphologically rich languages**, especially **Bengali**.  
 
-I’m deeply interested in developing **efficient and scalable AI models** through **optimization-driven approaches**, aiming to make intelligent systems more **adaptable**, **resource-aware**, and **linguistically inclusive**.
-
+My broader goal is to create **efficient, inclusive, and adaptable AI systems** that can operate across **text, speech, and visual modalities**, empowering technology in linguistically diverse and resource-constrained environments.
 ---
 
 Research Interests
