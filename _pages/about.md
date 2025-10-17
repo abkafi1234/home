@@ -49,7 +49,7 @@ Research Projects
 Publications & Contributions
 ======
 I have published research across **machine learning, NLP, and educational data analytics**, including conference papers presented at **IEEE** and **Springer** venues.  
-See my full list of [publications](/publications/) and ongoing [projects](/portfolio/).
+See my full list of [publications](https://scholar.google.com/citations?user=6QwJt9EAAAAJ&hl=en) and ongoing [projects](https://github.com/abkafi1234).
 
 ---
 
