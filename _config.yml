@@ -24,7 +24,7 @@ repository               : "https://github.com/abkafi1234/home"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Informations"
+  name             : "" # side bar name
   pronouns         : "HE/His" # example: "she/her"  
   bio              : "passionate about Machine Learning and optimization"
   location         : "Bangladesh"
