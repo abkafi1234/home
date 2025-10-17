@@ -24,13 +24,13 @@ repository               : "https://github.com/abkafi1234/home"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Informations"
   pronouns         : "HE/His" # example: "she/her"  
   bio              : "passionate about Machine Learning and optimization"
   location         : "Bangladesh"
   employer         : "Daffodil International University"
   uri              : "https://faculty.daffodilvarsity.edu.bd/profile/cse/alkafi.html"
-  email            : "kaf.cse@diu.edu.bd" 
+  email            : "kafi.cse@diu.edu.bd" 
 
   # Academic websites
   academia         : # URL
