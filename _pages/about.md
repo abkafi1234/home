@@ -43,6 +43,7 @@ Research Projects
 * **FastPOS** — A scalable, transformer-based POS tagging framework for low-resource languages.  
 * **LeafAI** — Edge-deployable and interpretable plant disease detection system.  
 * **The Grumbling Gap** — An interdisciplinary study exploring STEM students’ attitudes toward non-STEM curricula.  
+* **SemRep** — Semantic Replacement for Modern Text Normalization. SemRep offers a modern alternative to stemming by performing semantic-level reduction using contextual embeddings.
 
 ---
 
