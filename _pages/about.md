@@ -19,7 +19,7 @@ Research Interests
 ======
 * Active Learning
 * Edge AI and Model Optimization
-* Natural Language Processing (Low-Resource & Multilingual Settings)
+* Natural Language Processing: Low-Resource & Multilingual Settings
   
 ---
 
